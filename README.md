@@ -1,5 +1,6 @@
 ### Hi there 
 My name is Laure Favre
+<br>
 Always seeking to improve skills and build unique projects. 🚀
 
 I am learning software development @AdaTechSchool since january 2023 && I am looking for
