@@ -1,4 +1,4 @@
-### Hi there﫰
+### Hi there ❤
 My name is Laure Favre
 <br>
 Always seeking to improve skills and build unique projects. 🚀
