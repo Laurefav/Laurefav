@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 
+My name is Laure Favre
+Always seeking to improve skills and build unique projects. 🚀
 
+I am learning software development @AdaTechSchool since january 2023 && I am looking for
+an apprenticeship as a front-end developer who could start from October 2023.
+
+Let's connect with me and chat more ! 🖖
 <!--
 **Laurefav/Laurefav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
